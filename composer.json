@@ -1,5 +1,5 @@
 {
-    "name": "vendor/afropay",
+    "name": "vendor/afropay-laravel",
     "description": "A Laravel package for Afropay payment gateway integration",
     "type": "library",
     "license": "MIT",
